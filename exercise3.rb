@@ -11,4 +11,3 @@ loop do
     break if numOfLines == 0
     nums += 2
 end
-
